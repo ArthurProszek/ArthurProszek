@@ -1,13 +1,12 @@
 # Olá! Eu sou Artur Proszek! 🙂
  
 - 🔭 Atualmente estudando no ensino médio do SENAC
-
+- 📫 Entre em contato no email: Arthurproszek08@gmail.com
 - 🌱 Estudando  Front e Back-End
-
-- 🤔 Procurando novas oportunidades
+- 🤔 Procurando oportunidades
 
  
-### Meus stats do GitHub
+### Meus status do GitHub
 
 <div>
 
